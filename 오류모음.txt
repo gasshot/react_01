@@ -1,0 +1,8 @@
+PSSecurityException: UnauthorizedAccess
+
+관리자 권한으로 PowerShell 열기
+시작 버튼 → "PowerShell" 입력 → 우클릭 → 관리자 권한으로 실행
+
+Set-ExecutionPolicy RemoteSigned
+
+Y
